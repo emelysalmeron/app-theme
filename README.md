@@ -15,4 +15,4 @@ This ´App-Theme´ has been done under learning purposes for beginners developer
 - Flexbox Grid css file
 - A preferable code editor such a Atom or VSC.
 
-### **If you want to know the detailed step-by-step see the [Developmental Strategy](https://github.com/emelysalmeron/app-theme/blob/master/development-strategy.md)**
+### **If you want to know the detailed step-by-step see the [Developmental Strategy](https://github.com/emelysalmeron/app-theme/blob/master/dev-strategy.md)**
