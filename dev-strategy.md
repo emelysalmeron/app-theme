@@ -1,6 +1,6 @@
 # :black_square_button: Developmental Strategy :black_square_button:
 
-> `App Theme´
+> `App Theme`
 
 In this beginner friendly front-end project we will build a responsive HTML5 and CSS3 website template and we will use FlexboxGrid which is a lightweight Flexbox based grid system
 
@@ -22,38 +22,61 @@ In this beginner friendly front-end project we will build a responsive HTML5 and
 - Write Initial Development Strategy
 - Create and add wireframe
 - Push it to Github repo
+- Created [project](https://github.com/emelysalmeron/app-theme/projects/1)
 
 ## 1. Create `HEADER` and `NAVIGATION MENU`
 
 **full user story description**
 
-### Repo
-
-> I worked on the branch name `Header`
+> Worked ont he branch name `ìndex`
 
 ### HTML
 
 - I have added HTML elements for the basic layout:`<header>, <nav>, <section>, <footer>`.
 - It was added Flexbox grid `row` `col-xs-12 col-sm-2 col-md-2 col-lg-2`
+- Added `footer`to each html page
+- Added feature section
+- Info section using `lorem`
+- Added company information
 
 ### CSS
 
-- It was added `-container` for the margin to be auto.
+- CSS folder
+- Created style.css
+- Style:
+  - Commom Classes
+  - Header
+  - Body
+  - NavBar
+  - Showcase
+  - Features
+  - Info such as <h> elements including **Company**
+  - Footer
+- Style contact html file
+- Style services html file
+- Followed the font
+- Added Media Queries
+- Copy the font-awesome old version
 
-## 2. Create Showcase `section` for the main content
+## 2. Create branches
 
 ### Repo
 
-> I worked on the SHOWCASE branch
+- Created branches:
 
-### HTML
+  - index
+  - about
+  - contact
+  - services
 
-- Added `section` with the id "showcase"
-- Added Flexbox grid `row`to have 12 columns
+- Also added to the master branch:
 
-### CSS
+* images
+* css/
+* fonts
 
-- No changes made
--
+## Finishing Touches
 
-## 3. Create `features` for the main content
+Improving Readme with the link below.
+
+- Validate code to check for any last mistakes.
